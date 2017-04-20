@@ -18,7 +18,7 @@ function system_default_date_formats() {
     'locales' => array(),
   );
   $formats[] = array(
-    'type' => 'short',
+    'type' => 'short', date
     'format' => 'm/d/Y - H:i',
     'locales' => array('en-us'),
   );
